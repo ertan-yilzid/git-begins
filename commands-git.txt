@@ -1,0 +1,4 @@
+git clone <URL>
+git add . 
+git commit -m "message du commit"
+git push origin <branch>
