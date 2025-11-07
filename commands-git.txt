@@ -3,4 +3,4 @@ git add .
 git commit -m "message du commit"
 git push origin <branch>
 git pull
-git branch NouveauBranch
+git branch <Nom Branch>
